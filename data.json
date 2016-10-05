@@ -1,0 +1,86 @@
+{
+  "candidates": [
+    {
+      "name": "Hillary Rodham Clinton",
+      "poster": {
+        "assetUrl": "http://res.cloudinary.com/responsivebreakpoints/image/upload/v1475357570/HillaryClinton_bw7yvf.jpg",
+        "dimensions": [
+          {
+            "media": "(min-width: 64em)",
+            "sizes": "(max-width: 50em) 25vw, 33vw",
+            "imageDimensions": [
+              {
+                "width": "518",
+                "aspectRatio": "16:9",
+                "method": "scale"
+              },
+              {
+                "width": "400",
+                "aspectRatio": "16:9",
+                "method": "scale"
+              }
+            ]
+          },
+          {
+            "media": "(max-width: 40em)",
+            "sizes": "(max-width: 31em) 20vw, 30vw",
+            "imageDimensions": [
+              {
+                "width": "300",
+                "aspectRatio": "4:3",
+                "method": "scale"
+              },
+               {
+                "width": "180",
+                "aspectRatio": "4:3",
+                "method": "scale"
+              }
+            ]
+          }
+        ],
+        "alt": "Hillary Clinton"
+      }
+    },
+    {
+      "name": "Donald Trump",
+      "poster": {
+        "assetUrl": "http://res.cloudinary.com/responsivebreakpoints/image/upload/v1475367881/trump_vkuwlf.jpg",
+        "dimensions": [
+          {
+            "media": "(min-width: 64em)",
+            "sizes": "(max-width: 50em) 25vw, 33vw",
+            "imageDimensions": [
+              {
+                "width": "518",
+                "aspectRatio": "16:9",
+                "method": "scale"
+              },
+              {
+                "width": "400",
+                "aspectRatio": "16:9",
+                "method": "scale"
+              }
+            ]
+          },
+          {
+            "media": "(max-width: 40em)",
+            "sizes": "(max-width: 31em) 20vw, 30vw",
+            "imageDimensions": [
+              {
+                "width": "300",
+                "aspectRatio": "4:3",
+                "method": "scale"
+              },
+               {
+                "width": "180",
+                "aspectRatio": "4:3",
+                "method": "scale"
+              }
+            ]
+          }
+        ],
+        "alt": "Donald Trump"
+      }
+    }
+  ]
+}

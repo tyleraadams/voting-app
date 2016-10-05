@@ -1,0 +1,32 @@
+.ballot__candidate {
+	border: 2px solid #000000;
+	width: 45%;
+	position: relative;
+	cursor: pointer;
+}
+
+.ballot__poster img {
+	width: 100%;
+}
+
+.ballot__name {
+	margin-left: 12px;
+}
+
+.ballot__vote-count {
+	color: grey;
+	position: absolute;
+	right: 12px;
+}
+
+@media screen and (max-width: 64em) {
+	.ballot__name {
+		font-size: 0.95em;
+	}
+}
+
+@media screen and (max-width: 40em) {
+	.ballot__name {
+		font-size: 0.75em;
+	}
+}

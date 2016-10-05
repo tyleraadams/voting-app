@@ -1,0 +1,6 @@
+.ballot {
+	display: flex;
+	justify-content: space-around;
+	max-width: 1152px;
+	margin: 48px auto;
+}
